@@ -53,4 +53,11 @@ If you encounter any issues or bugs with the project, please report them on the 
 ### License
 This project is licensed under the MIT License 
 
+## Contact
+
+If you have any questions, suggestions, or would like to report a bug, please feel free to contact Manikandaraj via [manikandarajnataraj@gmail.com].   (or)
+
+
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
+
 
