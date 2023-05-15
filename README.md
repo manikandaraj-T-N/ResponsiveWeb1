@@ -7,7 +7,7 @@ Web1 - A website template for responsive web design.
 - [Usage](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#usage)
 - [Customization](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#customization)
 - [Installation](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#installation)
-- [Credits]()
+- [Credits](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#credits)
 - [Technologies Used](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#technologies-used)
 - [Contributing](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#contributing)
 - [Issues](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#issues)
