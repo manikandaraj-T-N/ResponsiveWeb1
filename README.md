@@ -11,7 +11,7 @@ Web1 - A website template for responsive web design.
 - [Technologies Used](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#technologies-used)
 - [Contributing](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#contributing)
 - [Issues](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#issues)
-- [License]()
+- [License](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#license)
 
 ### Introduction
 Web1 is a responsive website template built with `HTML and CSS`. It is designed for web design and development courses and contains sections for course information, registration, and login.
