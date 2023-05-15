@@ -7,6 +7,7 @@ Web1 - A website template for responsive web design.
 - [Usage](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#usage)
 - [Customization](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#customization)
 - [Installation](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#installation)
+- [Credits]()
 - [Technologies Used](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#technologies-used)
 - [Contributing](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#contributing)
 - [Issues](https://github.com/manikandaraj-T-N/ResponsiveWeb1/blob/main/README.md#issues)
@@ -35,9 +36,6 @@ To install and run the project locally, follow these steps:
 
 ## Credits
 The template was created by Manikandaraj as a project for `FRONT-END`. It uses the ionicons library for the social media icons.
-
-### License
-This template is licensed under the MIT License. 
 
 ### Technologies Used
 The project was created using the following technologies and tools:
